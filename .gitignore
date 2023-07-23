@@ -7,3 +7,9 @@ concat1_2.txt
 *.bin
 *.pkl
 *.csv
+*.zip
+
+*.pt
+pt_file
+checkpoint*
+*.tab
